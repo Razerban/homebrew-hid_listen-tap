@@ -3,7 +3,7 @@
 ## How do I install these formulae?
 `brew install razerbann/hid_listen/<formula>`
 
-Or `brew tap razerbann/hid_listen` and then `brew install <formula>`.
+Or `brew tap razerbann/hid_listen-tap` and then `brew install <formula>`.
 
 Or install via URL (which will not receive updates):
 
