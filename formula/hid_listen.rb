@@ -10,6 +10,6 @@ class HidListen < Formula
   end
 
   test do
-    assert_match "Waiting for device:", shell_output("${bin}/scas")
+    assert_match "Waiting for device:", shell_output("${bin}/hid_listen")
   end
 end
