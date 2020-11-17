@@ -1,4 +1,4 @@
-class Sctools < Formula
+class HidListen < Formula
   desc "PJRC hid_listen tool"
   homepage "https://github.com/razerbann/hid_listen"
   url "https://github.com/razerbann/hid_listen/archive/v1.0.2.tar.gz"
