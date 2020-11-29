@@ -5,7 +5,7 @@ class HidListen < Formula
   sha256 "9604969c67074f69ae488ccd17a5559abe8b5ff903133170cb2c7af7656d9c10"
 
   def install
-    system "make"
+    system "make OS=DARWIN"
     bin.install "./hid_listen"
   end
 
