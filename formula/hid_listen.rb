@@ -1,8 +1,8 @@
 class HidListen < Formula
   desc "PJRC hid_listen tool"
   homepage "https://github.com/razerbann/hid_listen"
-  url "https://github.com/razerbann/hid_listen/archive/v1.0.2.tar.gz"
-  sha256 "f4e60d0cee4e870f730f0f300442c7f68b767b1392bc5dc8b429eaa169b241f7"
+  url "https://github.com/razerbann/hid_listen/archive/v1.0.1.tar.gz"
+  sha256 "9604969c67074f69ae488ccd17a5559abe8b5ff903133170cb2c7af7656d9c10"
 
   def install
     system "make"
