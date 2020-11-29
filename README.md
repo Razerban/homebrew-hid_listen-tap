@@ -1,7 +1,7 @@
 # PJRC hid_listen-tap
 
 ## How do I install these formulae?
-`brew install razerbann/hid_listen/hid_listen`
+`brew install razerbann/hid_listen-tap/hid_listen`
 
 Or `brew tap razerbann/hid_listen-tap` and then `brew install hid_listen`.
 
